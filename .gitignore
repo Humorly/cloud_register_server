@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+package.json
+package.json.bak
+.gitignore.bak
+build
+.vscode
+*.pdb
+*.ilk
